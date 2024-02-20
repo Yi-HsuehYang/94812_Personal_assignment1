@@ -88,4 +88,4 @@ This analysis shows the power of sentiment on social media on the stock price. I
 
 ### Appendix
 
-Chat History with generative AI tool:  
+Chat History with generative AI tool:  https://docs.google.com/document/d/1Y73wwwDjDoc02IOlX7LJFrknuao56SnUSLTcmSAZ2xI/edit?usp=sharing
